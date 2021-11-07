@@ -1,0 +1,15 @@
+{
+  "restaurant": "boqueria",
+  "booking_release_time": "18:13:10",
+  "checking_delay": 0.2,
+  "from_date": "2021-11-07",
+  "to_date": "2021-11-15",
+  "from_time": "17:00",
+  "to_time": "22:00",
+  "ignore_dates": [],
+  "firstname": "Firstname",
+  "lastname": "Lastname",
+  "email": "firstname.lastname@mail.com",
+  "phone_number": "0701112345",
+  "num_people": 2
+}
